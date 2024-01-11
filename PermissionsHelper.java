@@ -1,5 +1,3 @@
-package com.android.playlistssync;
-
 import android.app.Activity;
 import android.content.Context;
 import android.content.pm.PackageInfo;
