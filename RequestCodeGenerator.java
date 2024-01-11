@@ -1,5 +1,3 @@
-package com.android.playlistssync;
-
 import java.util.Date;
 
 public class RequestCodeGenerator {
